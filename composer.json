@@ -1,0 +1,19 @@
+{
+    "name": "apolm01-043/dashboard-sgav",
+    "description": "Dashboard app sgav",
+    "type": "project",
+    "authors": [
+        {
+            "name": "furkanword",
+            "email": "arcekevin898@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+          "Clases\\": "./clases",
+          "Models\\": "./models"
+        }
+        
+    }
+}
